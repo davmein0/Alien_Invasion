@@ -1,1 +1,1 @@
-# Alien_Invasion
+# Alien_Invasion is inspired by a project Eric Matthes' Python Crash Course book. A lot of the same code is used, although some additional features have been implemented, including sound and powerups. 
